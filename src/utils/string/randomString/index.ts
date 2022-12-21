@@ -1,4 +1,4 @@
-import randomNumberBeetween from "../number";
+import randomNumberBeetween from "../../number/randomNumberBeetween";
 
 // Based on ascii values
 const startChar = 33;
