@@ -1,4 +1,4 @@
-import randomNumberBeetween from "./randomNumber";
-import randomString from "./randomString";
+import randomNumberBeetween from "./number";
+import randomString from "./string";
 
 export {randomNumberBeetween, randomString}
