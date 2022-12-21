@@ -25,22 +25,19 @@ $ yarn install
 
 ## Features availables
 
-**Filtering**:
-- filterArrayByValue *(permit to search in an array elements that contain the value in all property)*
-
-**Mapping**:
-- arrayMapper *(map an array from a specific format to a next one with callback)*
-
-**Occurences**:
-- occurencesInArray *(return a map of occurences of each value in array)*
-
-**Random**:
-- randomNumberBeetween *(return a number in a range)*
+**String**:
+- addPaddingToString *(Permit to padd the start or the end of a string to a given lenght, with a specific char)*
 - randomString *(Generate a string with a lenght n with random char)*
+
+**Number**:
+- randomNumberBeetween *(return a number in a range)*
 - generateRandomNumber *(Generate a random number of n digit)*
 
-**Sort**:
+**Array**:
 - sortArrayByKey *(Sort an array basing on a property)*
+- filterArrayByValue *(permit to search in an array elements that contain the value in all property)*
+- occurencesInArray *(return a map of occurences of each value in array)*
+- arrayMapper *(map an array from a specific format to a next one with callback)*
 
 **Time**:
 - addDays  *(Add days to a date)*
