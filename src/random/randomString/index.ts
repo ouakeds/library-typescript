@@ -13,5 +13,5 @@ export default function randomString(lenght: number): string {
     return Array.from({ length: lenght }, () =>
       String.fromCharCode(randomNumberBeetween(startChar, endChar))
     ).join('');
-  }
+}
   
