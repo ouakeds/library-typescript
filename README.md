@@ -37,6 +37,7 @@ $ yarn install
 **Random**:
 - randomNumberBeetween *(return a number in a range)*
 - randomString *(Generate a string with a lenght n with random char)*
+- generateRandomNumber *(Generate a random number of n digit)*
 
 **Sort**:
 - sortArrayByKey *(Sort an array basing on a property)*
